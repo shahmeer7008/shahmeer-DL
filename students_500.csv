@@ -1,0 +1,501 @@
+ID,Name,Age,City,Department,Semester,CGPA
+1,Student_1,18,Multan,AI,5,4.0
+2,Student_2,25,Faisalabad,Computer Science,8,2.16
+3,Student_3,23,Lahore,IT,7,3.24
+4,Student_4,25,Faisalabad,IT,4,2.88
+5,Student_5,19,Multan,AI,7,3.8
+6,Student_6,22,Karachi,IT,4,2.66
+7,Student_7,18,Islamabad,IT,8,2.14
+8,Student_8,25,Karachi,Computer Science,4,2.48
+9,Student_9,18,Lahore,Data Science,5,2.95
+10,Student_10,24,Multan,Data Science,3,3.98
+11,Student_11,19,Karachi,Software Engineering,4,2.22
+12,Student_12,19,Faisalabad,Data Science,6,3.81
+13,Student_13,24,Islamabad,AI,8,2.08
+14,Student_14,24,Karachi,Computer Science,5,3.76
+15,Student_15,24,Multan,IT,3,3.17
+16,Student_16,19,Lahore,Data Science,5,2.09
+17,Student_17,21,Lahore,Software Engineering,7,4.0
+18,Student_18,24,Karachi,Computer Science,7,2.82
+19,Student_19,23,Karachi,Data Science,5,2.01
+20,Student_20,22,Islamabad,AI,1,3.56
+21,Student_21,25,Multan,Data Science,8,3.8
+22,Student_22,20,Lahore,AI,2,3.14
+23,Student_23,24,Peshawar,AI,5,3.99
+24,Student_24,25,Islamabad,AI,1,3.17
+25,Student_25,23,Karachi,Data Science,3,3.34
+26,Student_26,25,Peshawar,Software Engineering,2,2.93
+27,Student_27,19,Lahore,AI,6,3.15
+28,Student_28,23,Islamabad,Software Engineering,7,2.25
+29,Student_29,25,Faisalabad,Data Science,6,3.63
+30,Student_30,21,Karachi,IT,6,3.24
+31,Student_31,18,Islamabad,Software Engineering,3,3.75
+32,Student_32,19,Multan,AI,1,3.26
+33,Student_33,21,Multan,Computer Science,7,3.78
+34,Student_34,24,Multan,Data Science,6,3.84
+35,Student_35,22,Peshawar,AI,1,3.38
+36,Student_36,21,Lahore,Data Science,5,2.88
+37,Student_37,22,Karachi,Computer Science,7,3.64
+38,Student_38,21,Multan,Data Science,6,3.48
+39,Student_39,20,Lahore,Data Science,8,3.23
+40,Student_40,22,Peshawar,Software Engineering,1,3.88
+41,Student_41,19,Islamabad,Software Engineering,1,2.26
+42,Student_42,21,Islamabad,Computer Science,4,3.38
+43,Student_43,18,Karachi,Software Engineering,1,2.61
+44,Student_44,20,Peshawar,Data Science,7,2.41
+45,Student_45,18,Peshawar,AI,1,2.41
+46,Student_46,21,Peshawar,IT,8,2.64
+47,Student_47,20,Islamabad,Computer Science,7,3.67
+48,Student_48,18,Karachi,Data Science,7,2.7
+49,Student_49,20,Multan,IT,1,3.35
+50,Student_50,18,Islamabad,IT,3,3.82
+51,Student_51,24,Peshawar,Computer Science,3,3.56
+52,Student_52,19,Faisalabad,Software Engineering,6,2.52
+53,Student_53,22,Peshawar,IT,1,2.17
+54,Student_54,19,Islamabad,Data Science,5,2.45
+55,Student_55,25,Peshawar,Software Engineering,1,3.54
+56,Student_56,18,Islamabad,Software Engineering,6,3.09
+57,Student_57,25,Faisalabad,Software Engineering,3,2.08
+58,Student_58,25,Faisalabad,Computer Science,2,2.81
+59,Student_59,22,Multan,Data Science,8,3.52
+60,Student_60,18,Peshawar,Data Science,8,2.42
+61,Student_61,19,Multan,AI,7,3.25
+62,Student_62,19,Faisalabad,Computer Science,1,2.83
+63,Student_63,24,Islamabad,Software Engineering,5,3.68
+64,Student_64,20,Peshawar,IT,1,3.23
+65,Student_65,23,Faisalabad,Computer Science,7,3.14
+66,Student_66,20,Faisalabad,AI,2,3.6
+67,Student_67,18,Peshawar,Computer Science,4,2.58
+68,Student_68,22,Peshawar,IT,3,3.19
+69,Student_69,25,Multan,Computer Science,4,3.5
+70,Student_70,19,Multan,AI,4,2.5
+71,Student_71,20,Karachi,Computer Science,8,3.25
+72,Student_72,19,Peshawar,IT,2,3.71
+73,Student_73,21,Multan,Computer Science,5,2.3
+74,Student_74,25,Islamabad,AI,5,2.19
+75,Student_75,19,Multan,Data Science,3,3.69
+76,Student_76,18,Faisalabad,IT,7,3.39
+77,Student_77,25,Peshawar,Computer Science,8,3.97
+78,Student_78,18,Karachi,IT,1,2.18
+79,Student_79,23,Karachi,Data Science,1,2.19
+80,Student_80,18,Faisalabad,AI,4,3.26
+81,Student_81,19,Multan,IT,1,3.4
+82,Student_82,25,Faisalabad,Software Engineering,7,2.54
+83,Student_83,18,Multan,Data Science,6,2.96
+84,Student_84,18,Peshawar,Software Engineering,7,2.02
+85,Student_85,18,Multan,Software Engineering,1,3.65
+86,Student_86,19,Lahore,Software Engineering,7,3.28
+87,Student_87,21,Karachi,AI,8,2.38
+88,Student_88,18,Islamabad,Software Engineering,4,3.49
+89,Student_89,20,Lahore,Software Engineering,4,3.64
+90,Student_90,19,Faisalabad,IT,1,2.07
+91,Student_91,20,Faisalabad,AI,4,2.68
+92,Student_92,23,Faisalabad,Computer Science,8,2.61
+93,Student_93,21,Peshawar,Computer Science,2,3.84
+94,Student_94,22,Multan,Software Engineering,5,2.34
+95,Student_95,20,Karachi,AI,3,3.57
+96,Student_96,19,Islamabad,Software Engineering,5,2.77
+97,Student_97,25,Lahore,IT,4,3.44
+98,Student_98,25,Multan,Computer Science,2,3.05
+99,Student_99,24,Faisalabad,Computer Science,2,3.94
+100,Student_100,25,Karachi,Software Engineering,4,2.4
+101,Student_101,25,Faisalabad,Data Science,5,3.97
+102,Student_102,24,Multan,Computer Science,3,2.35
+103,Student_103,19,Islamabad,Data Science,3,2.66
+104,Student_104,18,Lahore,Data Science,2,2.4
+105,Student_105,20,Peshawar,Computer Science,4,2.37
+106,Student_106,23,Peshawar,Data Science,4,2.66
+107,Student_107,24,Islamabad,Data Science,4,3.88
+108,Student_108,18,Peshawar,Software Engineering,4,2.75
+109,Student_109,23,Karachi,Computer Science,2,2.82
+110,Student_110,19,Lahore,Software Engineering,6,2.09
+111,Student_111,21,Islamabad,IT,4,3.92
+112,Student_112,23,Lahore,Computer Science,6,3.64
+113,Student_113,21,Islamabad,Data Science,4,2.87
+114,Student_114,18,Peshawar,Software Engineering,6,2.6
+115,Student_115,24,Faisalabad,Software Engineering,7,2.83
+116,Student_116,20,Multan,Computer Science,5,2.79
+117,Student_117,23,Karachi,AI,8,2.67
+118,Student_118,25,Multan,Computer Science,6,2.08
+119,Student_119,22,Faisalabad,Computer Science,3,3.51
+120,Student_120,24,Multan,AI,2,3.93
+121,Student_121,23,Peshawar,Software Engineering,4,3.86
+122,Student_122,25,Peshawar,Software Engineering,1,3.6
+123,Student_123,23,Peshawar,Data Science,7,3.6
+124,Student_124,19,Peshawar,Computer Science,5,3.58
+125,Student_125,21,Faisalabad,IT,3,3.37
+126,Student_126,21,Islamabad,Computer Science,7,2.9
+127,Student_127,23,Lahore,Software Engineering,1,3.51
+128,Student_128,20,Islamabad,Software Engineering,5,3.64
+129,Student_129,25,Multan,Software Engineering,5,3.27
+130,Student_130,22,Islamabad,Data Science,6,3.2
+131,Student_131,20,Peshawar,Software Engineering,1,3.48
+132,Student_132,22,Karachi,AI,7,2.69
+133,Student_133,21,Multan,Software Engineering,4,2.32
+134,Student_134,18,Multan,AI,7,2.24
+135,Student_135,19,Peshawar,Data Science,8,2.85
+136,Student_136,21,Islamabad,Data Science,4,3.46
+137,Student_137,18,Multan,Data Science,1,3.25
+138,Student_138,23,Lahore,Software Engineering,8,2.49
+139,Student_139,20,Lahore,AI,1,2.79
+140,Student_140,19,Faisalabad,AI,4,2.14
+141,Student_141,23,Karachi,AI,8,3.36
+142,Student_142,18,Faisalabad,AI,4,3.77
+143,Student_143,23,Faisalabad,Software Engineering,7,3.22
+144,Student_144,19,Islamabad,Data Science,7,3.04
+145,Student_145,24,Faisalabad,AI,8,2.25
+146,Student_146,19,Islamabad,Software Engineering,4,3.78
+147,Student_147,20,Multan,Data Science,5,3.02
+148,Student_148,19,Lahore,IT,2,2.53
+149,Student_149,25,Faisalabad,AI,4,3.54
+150,Student_150,19,Lahore,AI,8,2.48
+151,Student_151,21,Faisalabad,Software Engineering,8,3.03
+152,Student_152,25,Peshawar,Computer Science,1,2.93
+153,Student_153,22,Peshawar,IT,3,3.62
+154,Student_154,18,Multan,IT,7,2.26
+155,Student_155,19,Karachi,Computer Science,7,3.15
+156,Student_156,25,Karachi,Data Science,2,3.49
+157,Student_157,20,Faisalabad,Computer Science,1,3.74
+158,Student_158,18,Lahore,IT,6,2.86
+159,Student_159,18,Faisalabad,Data Science,7,3.63
+160,Student_160,24,Islamabad,AI,6,2.35
+161,Student_161,20,Lahore,Software Engineering,8,2.39
+162,Student_162,22,Multan,IT,5,2.72
+163,Student_163,22,Karachi,AI,4,3.13
+164,Student_164,24,Karachi,AI,5,2.95
+165,Student_165,18,Karachi,Data Science,4,2.31
+166,Student_166,25,Lahore,Data Science,7,2.3
+167,Student_167,24,Peshawar,IT,4,3.24
+168,Student_168,18,Multan,Data Science,3,2.2
+169,Student_169,20,Karachi,Software Engineering,8,2.16
+170,Student_170,23,Faisalabad,Software Engineering,3,3.58
+171,Student_171,20,Multan,Data Science,1,3.51
+172,Student_172,18,Lahore,Data Science,2,3.44
+173,Student_173,20,Peshawar,Software Engineering,5,2.72
+174,Student_174,18,Islamabad,Data Science,5,2.57
+175,Student_175,19,Faisalabad,IT,1,3.91
+176,Student_176,23,Islamabad,AI,4,3.23
+177,Student_177,23,Peshawar,Software Engineering,6,3.59
+178,Student_178,22,Karachi,AI,4,2.09
+179,Student_179,18,Multan,Software Engineering,4,2.56
+180,Student_180,20,Peshawar,Software Engineering,6,2.37
+181,Student_181,18,Faisalabad,IT,7,2.26
+182,Student_182,21,Multan,Software Engineering,4,2.75
+183,Student_183,20,Lahore,Computer Science,2,3.87
+184,Student_184,18,Lahore,Software Engineering,5,3.79
+185,Student_185,20,Multan,IT,4,3.79
+186,Student_186,22,Peshawar,IT,6,3.82
+187,Student_187,19,Multan,IT,6,2.13
+188,Student_188,25,Islamabad,Data Science,6,2.06
+189,Student_189,22,Faisalabad,Software Engineering,1,2.47
+190,Student_190,23,Karachi,Software Engineering,3,3.09
+191,Student_191,18,Lahore,IT,8,2.31
+192,Student_192,23,Faisalabad,Data Science,1,3.71
+193,Student_193,24,Faisalabad,Software Engineering,6,3.66
+194,Student_194,21,Islamabad,Computer Science,2,3.09
+195,Student_195,25,Multan,AI,5,3.37
+196,Student_196,18,Peshawar,Data Science,8,3.45
+197,Student_197,22,Multan,IT,7,3.42
+198,Student_198,25,Karachi,IT,4,2.7
+199,Student_199,19,Peshawar,Computer Science,7,2.67
+200,Student_200,19,Karachi,Data Science,6,3.11
+201,Student_201,18,Peshawar,Data Science,3,3.87
+202,Student_202,19,Islamabad,AI,4,2.98
+203,Student_203,23,Karachi,AI,4,3.45
+204,Student_204,18,Lahore,Data Science,6,2.71
+205,Student_205,20,Lahore,AI,7,3.0
+206,Student_206,24,Lahore,IT,5,2.88
+207,Student_207,22,Faisalabad,Computer Science,7,2.74
+208,Student_208,20,Islamabad,Data Science,8,3.98
+209,Student_209,23,Lahore,Data Science,5,3.77
+210,Student_210,19,Peshawar,AI,4,3.15
+211,Student_211,25,Faisalabad,AI,4,3.94
+212,Student_212,24,Islamabad,IT,5,2.92
+213,Student_213,19,Faisalabad,Data Science,4,3.14
+214,Student_214,24,Faisalabad,AI,5,2.09
+215,Student_215,21,Faisalabad,AI,2,3.85
+216,Student_216,22,Islamabad,AI,7,3.05
+217,Student_217,20,Multan,IT,5,3.35
+218,Student_218,25,Faisalabad,Data Science,8,3.35
+219,Student_219,24,Karachi,IT,4,3.45
+220,Student_220,18,Faisalabad,Computer Science,8,2.5
+221,Student_221,21,Islamabad,Software Engineering,1,3.7
+222,Student_222,24,Lahore,Data Science,4,2.64
+223,Student_223,24,Islamabad,Computer Science,4,2.69
+224,Student_224,18,Islamabad,Software Engineering,4,3.62
+225,Student_225,18,Peshawar,AI,4,3.62
+226,Student_226,18,Multan,Computer Science,1,3.62
+227,Student_227,24,Karachi,Software Engineering,5,3.59
+228,Student_228,22,Faisalabad,IT,5,3.14
+229,Student_229,25,Karachi,Computer Science,5,3.56
+230,Student_230,18,Islamabad,Computer Science,3,3.51
+231,Student_231,18,Karachi,IT,8,2.09
+232,Student_232,19,Peshawar,AI,1,3.92
+233,Student_233,19,Peshawar,AI,3,2.99
+234,Student_234,23,Faisalabad,Software Engineering,5,3.35
+235,Student_235,20,Islamabad,Software Engineering,8,2.11
+236,Student_236,23,Karachi,IT,1,3.84
+237,Student_237,24,Peshawar,Data Science,5,2.22
+238,Student_238,20,Lahore,AI,3,2.73
+239,Student_239,25,Faisalabad,IT,8,3.89
+240,Student_240,18,Lahore,IT,7,3.69
+241,Student_241,24,Peshawar,AI,4,2.26
+242,Student_242,20,Karachi,AI,2,2.61
+243,Student_243,18,Islamabad,Software Engineering,5,3.15
+244,Student_244,22,Multan,Data Science,1,2.18
+245,Student_245,22,Lahore,Computer Science,1,3.05
+246,Student_246,25,Islamabad,AI,1,2.35
+247,Student_247,21,Karachi,IT,6,2.12
+248,Student_248,21,Peshawar,AI,4,2.09
+249,Student_249,19,Peshawar,Software Engineering,5,2.99
+250,Student_250,19,Islamabad,Software Engineering,2,2.74
+251,Student_251,19,Lahore,IT,1,2.5
+252,Student_252,18,Peshawar,Data Science,1,2.99
+253,Student_253,20,Faisalabad,Computer Science,2,2.45
+254,Student_254,25,Islamabad,AI,7,3.43
+255,Student_255,18,Peshawar,Software Engineering,3,2.1
+256,Student_256,21,Multan,Data Science,5,2.38
+257,Student_257,18,Faisalabad,Data Science,6,3.57
+258,Student_258,21,Karachi,Data Science,2,2.02
+259,Student_259,23,Islamabad,IT,4,3.45
+260,Student_260,25,Multan,Computer Science,5,2.81
+261,Student_261,25,Peshawar,AI,2,2.71
+262,Student_262,25,Islamabad,IT,7,3.87
+263,Student_263,18,Lahore,IT,3,3.57
+264,Student_264,24,Lahore,AI,4,3.35
+265,Student_265,23,Karachi,IT,2,3.98
+266,Student_266,23,Multan,Computer Science,4,2.56
+267,Student_267,23,Lahore,IT,5,3.43
+268,Student_268,25,Faisalabad,AI,1,2.9
+269,Student_269,21,Islamabad,IT,1,3.97
+270,Student_270,18,Faisalabad,Computer Science,2,2.99
+271,Student_271,18,Multan,AI,4,2.9
+272,Student_272,22,Multan,Data Science,1,3.51
+273,Student_273,22,Faisalabad,AI,4,2.87
+274,Student_274,20,Lahore,Data Science,1,2.92
+275,Student_275,20,Lahore,Data Science,4,2.63
+276,Student_276,20,Karachi,IT,1,3.78
+277,Student_277,24,Karachi,AI,3,2.54
+278,Student_278,19,Karachi,AI,6,3.14
+279,Student_279,25,Lahore,AI,1,2.63
+280,Student_280,19,Islamabad,Computer Science,1,2.23
+281,Student_281,20,Lahore,Computer Science,5,2.32
+282,Student_282,19,Peshawar,AI,2,3.24
+283,Student_283,20,Karachi,IT,5,2.72
+284,Student_284,18,Peshawar,Data Science,2,2.41
+285,Student_285,25,Faisalabad,AI,7,2.73
+286,Student_286,19,Islamabad,Computer Science,1,2.87
+287,Student_287,23,Peshawar,Computer Science,8,2.25
+288,Student_288,25,Multan,Computer Science,4,2.51
+289,Student_289,19,Peshawar,AI,3,2.91
+290,Student_290,20,Islamabad,Computer Science,2,3.91
+291,Student_291,19,Multan,Software Engineering,6,3.94
+292,Student_292,24,Faisalabad,Data Science,1,2.08
+293,Student_293,21,Karachi,IT,8,2.42
+294,Student_294,18,Multan,Software Engineering,2,2.94
+295,Student_295,22,Karachi,Computer Science,3,3.56
+296,Student_296,21,Peshawar,Computer Science,3,2.92
+297,Student_297,20,Lahore,AI,1,3.81
+298,Student_298,21,Karachi,Data Science,8,3.93
+299,Student_299,18,Peshawar,Software Engineering,3,2.63
+300,Student_300,20,Peshawar,Software Engineering,3,2.42
+301,Student_301,20,Karachi,IT,6,3.31
+302,Student_302,24,Peshawar,Software Engineering,2,3.85
+303,Student_303,25,Faisalabad,Software Engineering,1,3.41
+304,Student_304,20,Karachi,Data Science,4,3.39
+305,Student_305,23,Peshawar,IT,1,3.49
+306,Student_306,19,Islamabad,Data Science,5,3.31
+307,Student_307,23,Peshawar,Data Science,3,2.42
+308,Student_308,21,Karachi,Computer Science,3,2.37
+309,Student_309,24,Lahore,Data Science,7,2.91
+310,Student_310,25,Faisalabad,IT,8,3.97
+311,Student_311,24,Multan,Data Science,6,3.95
+312,Student_312,23,Islamabad,AI,5,3.09
+313,Student_313,21,Peshawar,Data Science,1,3.61
+314,Student_314,20,Peshawar,Computer Science,6,3.91
+315,Student_315,25,Peshawar,Data Science,4,3.37
+316,Student_316,18,Peshawar,Data Science,7,2.6
+317,Student_317,24,Peshawar,IT,8,2.13
+318,Student_318,18,Multan,Software Engineering,7,3.9
+319,Student_319,21,Peshawar,Software Engineering,5,2.95
+320,Student_320,19,Peshawar,AI,6,2.58
+321,Student_321,25,Islamabad,Data Science,1,3.4
+322,Student_322,23,Multan,Software Engineering,6,2.27
+323,Student_323,22,Islamabad,AI,3,2.71
+324,Student_324,19,Lahore,AI,8,2.19
+325,Student_325,24,Multan,AI,7,3.6
+326,Student_326,20,Islamabad,AI,3,2.31
+327,Student_327,25,Faisalabad,IT,2,3.73
+328,Student_328,24,Karachi,Data Science,7,2.92
+329,Student_329,18,Karachi,AI,4,2.91
+330,Student_330,23,Multan,IT,8,3.34
+331,Student_331,23,Faisalabad,AI,7,2.45
+332,Student_332,21,Karachi,Data Science,5,3.78
+333,Student_333,22,Faisalabad,IT,1,2.49
+334,Student_334,19,Peshawar,AI,8,2.3
+335,Student_335,21,Islamabad,Data Science,6,3.02
+336,Student_336,19,Islamabad,AI,3,3.76
+337,Student_337,18,Karachi,Computer Science,8,2.37
+338,Student_338,22,Islamabad,AI,8,2.79
+339,Student_339,23,Karachi,Software Engineering,3,2.32
+340,Student_340,25,Islamabad,Computer Science,6,2.53
+341,Student_341,21,Peshawar,Data Science,5,2.09
+342,Student_342,18,Faisalabad,Data Science,8,2.16
+343,Student_343,20,Peshawar,Software Engineering,3,2.0
+344,Student_344,24,Faisalabad,AI,6,3.54
+345,Student_345,20,Multan,IT,3,3.44
+346,Student_346,21,Peshawar,AI,8,2.92
+347,Student_347,22,Lahore,Data Science,3,3.79
+348,Student_348,20,Karachi,IT,2,2.12
+349,Student_349,24,Multan,IT,3,3.42
+350,Student_350,24,Multan,IT,5,2.59
+351,Student_351,19,Lahore,Computer Science,8,2.79
+352,Student_352,21,Multan,AI,4,3.1
+353,Student_353,23,Lahore,IT,3,2.21
+354,Student_354,18,Multan,IT,1,2.26
+355,Student_355,24,Multan,Computer Science,8,2.32
+356,Student_356,20,Multan,IT,7,2.16
+357,Student_357,24,Islamabad,Computer Science,2,2.08
+358,Student_358,18,Islamabad,IT,1,3.2
+359,Student_359,20,Lahore,Data Science,5,3.2
+360,Student_360,20,Lahore,AI,1,2.35
+361,Student_361,23,Lahore,Software Engineering,1,2.47
+362,Student_362,18,Multan,Software Engineering,7,2.72
+363,Student_363,25,Islamabad,IT,3,3.37
+364,Student_364,21,Multan,Data Science,4,2.37
+365,Student_365,22,Islamabad,Data Science,6,2.82
+366,Student_366,22,Islamabad,Software Engineering,8,3.11
+367,Student_367,22,Lahore,Data Science,8,2.22
+368,Student_368,24,Peshawar,IT,8,2.92
+369,Student_369,25,Peshawar,Data Science,3,3.99
+370,Student_370,24,Faisalabad,Computer Science,1,3.66
+371,Student_371,22,Multan,Data Science,1,2.17
+372,Student_372,18,Islamabad,Data Science,6,3.78
+373,Student_373,18,Karachi,Data Science,6,2.3
+374,Student_374,18,Peshawar,IT,5,2.64
+375,Student_375,23,Faisalabad,IT,8,4.0
+376,Student_376,21,Faisalabad,Data Science,6,3.29
+377,Student_377,24,Islamabad,Computer Science,7,2.06
+378,Student_378,18,Karachi,Data Science,5,2.98
+379,Student_379,18,Faisalabad,Software Engineering,3,2.03
+380,Student_380,21,Faisalabad,Data Science,8,2.02
+381,Student_381,24,Lahore,Data Science,6,2.14
+382,Student_382,19,Multan,Software Engineering,8,2.5
+383,Student_383,21,Faisalabad,Software Engineering,1,2.9
+384,Student_384,25,Islamabad,IT,8,2.86
+385,Student_385,18,Faisalabad,Software Engineering,4,2.27
+386,Student_386,19,Faisalabad,Data Science,5,2.65
+387,Student_387,23,Multan,Software Engineering,3,2.77
+388,Student_388,22,Peshawar,Computer Science,8,2.37
+389,Student_389,25,Peshawar,IT,4,2.66
+390,Student_390,21,Lahore,Software Engineering,6,2.36
+391,Student_391,24,Peshawar,IT,7,2.25
+392,Student_392,21,Faisalabad,Data Science,1,3.01
+393,Student_393,22,Islamabad,Data Science,2,3.97
+394,Student_394,22,Islamabad,AI,5,3.93
+395,Student_395,22,Faisalabad,IT,5,3.23
+396,Student_396,24,Lahore,Computer Science,4,3.12
+397,Student_397,24,Lahore,Data Science,3,3.11
+398,Student_398,23,Faisalabad,Software Engineering,7,3.41
+399,Student_399,22,Islamabad,Computer Science,6,3.44
+400,Student_400,19,Karachi,IT,4,3.81
+401,Student_401,20,Multan,AI,8,2.3
+402,Student_402,18,Peshawar,Data Science,5,3.11
+403,Student_403,19,Islamabad,Computer Science,1,3.14
+404,Student_404,20,Islamabad,Software Engineering,1,3.53
+405,Student_405,20,Islamabad,Computer Science,3,2.82
+406,Student_406,18,Faisalabad,Computer Science,8,3.34
+407,Student_407,19,Faisalabad,AI,6,3.7
+408,Student_408,24,Multan,Data Science,8,2.95
+409,Student_409,25,Karachi,Computer Science,6,3.23
+410,Student_410,20,Multan,Computer Science,7,2.72
+411,Student_411,20,Islamabad,Computer Science,7,3.53
+412,Student_412,18,Peshawar,IT,7,2.52
+413,Student_413,25,Karachi,IT,6,2.09
+414,Student_414,21,Faisalabad,Computer Science,4,2.2
+415,Student_415,25,Islamabad,Data Science,1,2.06
+416,Student_416,24,Lahore,AI,3,3.9
+417,Student_417,21,Faisalabad,IT,3,2.61
+418,Student_418,22,Islamabad,Software Engineering,7,3.1
+419,Student_419,19,Lahore,AI,4,2.55
+420,Student_420,20,Peshawar,IT,6,2.06
+421,Student_421,21,Faisalabad,Data Science,1,3.0
+422,Student_422,24,Lahore,Data Science,3,2.67
+423,Student_423,23,Islamabad,Computer Science,7,2.91
+424,Student_424,22,Islamabad,Computer Science,1,3.17
+425,Student_425,25,Peshawar,Data Science,1,3.66
+426,Student_426,18,Multan,IT,7,2.8
+427,Student_427,21,Karachi,Software Engineering,4,2.28
+428,Student_428,22,Peshawar,IT,5,2.23
+429,Student_429,23,Karachi,Data Science,3,2.32
+430,Student_430,25,Faisalabad,IT,5,3.73
+431,Student_431,21,Lahore,Software Engineering,4,3.65
+432,Student_432,18,Islamabad,AI,7,3.77
+433,Student_433,23,Peshawar,Software Engineering,6,3.22
+434,Student_434,22,Faisalabad,Software Engineering,8,3.49
+435,Student_435,22,Karachi,AI,5,3.84
+436,Student_436,22,Multan,Computer Science,1,2.8
+437,Student_437,18,Multan,Software Engineering,7,3.18
+438,Student_438,21,Peshawar,Software Engineering,3,2.37
+439,Student_439,23,Multan,IT,6,3.85
+440,Student_440,21,Multan,IT,6,2.75
+441,Student_441,18,Faisalabad,AI,4,3.83
+442,Student_442,19,Karachi,Data Science,5,2.3
+443,Student_443,25,Lahore,Software Engineering,6,2.31
+444,Student_444,19,Lahore,Data Science,5,3.73
+445,Student_445,22,Peshawar,Data Science,1,2.21
+446,Student_446,21,Peshawar,Computer Science,2,3.24
+447,Student_447,23,Multan,IT,6,2.24
+448,Student_448,24,Islamabad,IT,3,3.4
+449,Student_449,22,Faisalabad,Data Science,6,3.74
+450,Student_450,25,Islamabad,IT,7,3.99
+451,Student_451,23,Peshawar,Software Engineering,3,3.44
+452,Student_452,25,Karachi,AI,3,2.32
+453,Student_453,19,Peshawar,Data Science,3,2.22
+454,Student_454,25,Islamabad,IT,2,3.97
+455,Student_455,23,Peshawar,AI,1,2.25
+456,Student_456,25,Karachi,AI,6,2.05
+457,Student_457,25,Karachi,Data Science,5,3.57
+458,Student_458,19,Faisalabad,Software Engineering,5,3.33
+459,Student_459,18,Lahore,IT,7,3.18
+460,Student_460,25,Peshawar,Computer Science,3,2.42
+461,Student_461,20,Islamabad,Software Engineering,2,3.93
+462,Student_462,18,Islamabad,Software Engineering,1,2.91
+463,Student_463,20,Karachi,Software Engineering,5,3.54
+464,Student_464,21,Peshawar,AI,5,3.49
+465,Student_465,23,Peshawar,Data Science,7,3.18
+466,Student_466,25,Peshawar,Software Engineering,3,3.82
+467,Student_467,24,Faisalabad,Software Engineering,1,2.3
+468,Student_468,20,Lahore,IT,8,3.64
+469,Student_469,22,Multan,Data Science,3,2.65
+470,Student_470,20,Multan,Software Engineering,3,2.91
+471,Student_471,25,Islamabad,AI,4,2.24
+472,Student_472,21,Islamabad,Computer Science,8,2.09
+473,Student_473,19,Lahore,Computer Science,2,3.29
+474,Student_474,20,Faisalabad,Data Science,5,2.82
+475,Student_475,20,Multan,Data Science,8,2.9
+476,Student_476,19,Lahore,Computer Science,3,2.64
+477,Student_477,22,Karachi,Software Engineering,1,2.48
+478,Student_478,24,Faisalabad,Data Science,8,2.23
+479,Student_479,19,Peshawar,AI,1,2.74
+480,Student_480,20,Lahore,Computer Science,8,2.01
+481,Student_481,19,Islamabad,Data Science,6,3.92
+482,Student_482,22,Karachi,Computer Science,8,3.32
+483,Student_483,19,Peshawar,Software Engineering,5,2.69
+484,Student_484,19,Lahore,AI,8,3.9
+485,Student_485,24,Multan,Data Science,7,3.74
+486,Student_486,22,Lahore,Computer Science,7,2.17
+487,Student_487,19,Lahore,Software Engineering,4,2.36
+488,Student_488,25,Lahore,AI,6,2.58
+489,Student_489,24,Lahore,Data Science,3,3.85
+490,Student_490,24,Lahore,IT,3,2.56
+491,Student_491,25,Lahore,Data Science,7,2.49
+492,Student_492,24,Peshawar,AI,8,3.12
+493,Student_493,21,Karachi,AI,8,3.58
+494,Student_494,19,Faisalabad,AI,3,3.94
+495,Student_495,23,Karachi,Software Engineering,6,3.15
+496,Student_496,21,Islamabad,IT,8,2.13
+497,Student_497,23,Faisalabad,AI,3,2.49
+498,Student_498,19,Faisalabad,IT,8,3.3
+499,Student_499,19,Islamabad,IT,6,2.67
+500,Student_500,24,Islamabad,IT,1,2.59

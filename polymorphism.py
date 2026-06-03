@@ -8,6 +8,7 @@ class Cat(Animal):
     def speak(self):
         return "Meow!"
 
+
 animal=Cat()
 print(animal.speak())
 animal=Dog()

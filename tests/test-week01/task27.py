@@ -3,7 +3,7 @@ from array import array
 from collections import namedtuple
 
 def topThree(l):
-    scores = sorted(list(set(scores)), reverse=True)
+    scores = sorted(list(set(l)), reverse=True)
     return scores[:3]
 
 l= [75,65,34,43,34,23]

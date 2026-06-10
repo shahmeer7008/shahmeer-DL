@@ -31,8 +31,8 @@ async def main():
     print(f"Results: {results}")
     print(f"Total elapsed time: {elapsed:.2f} seconds")
 
-if __name__ == "__main__":
-    asyncio.run(main())
+
+asyncio.run(main())
 
 x = 42
 first_id = id(x)
@@ -51,7 +51,7 @@ print(f"Initial list ID:    {first_list_id}")
 my_list.append(4)  
 second_list_id = id(my_list)
 print(f"New list ID:        {second_list_id}")
-print(f"Changed?            {first_list_id != second_id} (Same memory location modified)")
+print(f"Changed?            {first_list_id != second_list_id} (Same memory location modified)")
 
 
 # commands

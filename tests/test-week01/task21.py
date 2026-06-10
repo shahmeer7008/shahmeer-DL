@@ -23,5 +23,5 @@ if(a>b):
 else:
     print(f"{b} is greater than {a}")
 
-print(a > b and a > 20)
+print(a > b or a > 20)
 

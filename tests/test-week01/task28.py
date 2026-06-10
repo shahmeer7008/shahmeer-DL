@@ -20,7 +20,7 @@ print(f"3 highest scores: {heapq.nlargest(3, scores)}")
 file_name = 'students.txt'
 try:
     with open(file_name, 'w') as f:
-        f.write("Alice, 85\nBob, 90\nCharlie, 78\nDavid, 92\nEve, 88\n")
+        f.write("Raza, 85\nHassan, 90\nHamid, 78\nBilal, 92\nAhmed, 88\n")
         
    
     with open(file_name, 'r') as f:

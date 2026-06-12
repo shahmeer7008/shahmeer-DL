@@ -1,5 +1,5 @@
 SELECT 
     sale_id,
     sales_amount,
-    (SELECT AVG(sales_amount) FROM sales) AS avg_sales
+    (SELECT ROUND(AVG(sales_amount),2) FROM sales) AS avg_sales
 FROM sales;
